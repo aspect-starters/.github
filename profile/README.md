@@ -30,20 +30,20 @@ tools required.
 
 ## Starters
 
-| Repo | Stack |
-| --- | --- |
-| [minimal](https://github.com/aspect-starters/minimal) | An empty, correctly-configured Bazel workspace |
-| [go](https://github.com/aspect-starters/go) | Go |
-| [py](https://github.com/aspect-starters/py) | Python |
-| [js](https://github.com/aspect-starters/js) | JavaScript & TypeScript |
-| [java](https://github.com/aspect-starters/java) | Java |
-| [kotlin](https://github.com/aspect-starters/kotlin) | Kotlin |
-| [scala](https://github.com/aspect-starters/scala) | Scala |
-| [cpp](https://github.com/aspect-starters/cpp) | C & C++ |
-| [rust](https://github.com/aspect-starters/rust) | Rust |
-| [ruby](https://github.com/aspect-starters/ruby) | Ruby |
-| [shell](https://github.com/aspect-starters/shell) | Bash / shell |
-| [kitchen-sink](https://github.com/aspect-starters/kitchen-sink) | Everything — all languages + OCI, protobuf, release stamping, codegen |
+| Repo | Stack | Status |
+| --- | --- | --- |
+| [minimal](https://github.com/aspect-starters/minimal) | An empty, correctly-configured Bazel workspace | [![CI](https://github.com/aspect-starters/minimal/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/minimal/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [go](https://github.com/aspect-starters/go) | Go | [![CI](https://github.com/aspect-starters/go/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/go/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [py](https://github.com/aspect-starters/py) | Python | [![CI](https://github.com/aspect-starters/py/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/py/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [js](https://github.com/aspect-starters/js) | JavaScript & TypeScript | [![CI](https://github.com/aspect-starters/js/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/js/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [java](https://github.com/aspect-starters/java) | Java | [![CI](https://github.com/aspect-starters/java/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/java/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [kotlin](https://github.com/aspect-starters/kotlin) | Kotlin | [![CI](https://github.com/aspect-starters/kotlin/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/kotlin/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [scala](https://github.com/aspect-starters/scala) | Scala | [![CI](https://github.com/aspect-starters/scala/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/scala/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [cpp](https://github.com/aspect-starters/cpp) | C & C++ | [![CI](https://github.com/aspect-starters/cpp/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/cpp/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [rust](https://github.com/aspect-starters/rust) | Rust | [![CI](https://github.com/aspect-starters/rust/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/rust/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [ruby](https://github.com/aspect-starters/ruby) | Ruby | [![CI](https://github.com/aspect-starters/ruby/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/ruby/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [shell](https://github.com/aspect-starters/shell) | Bash / shell | [![CI](https://github.com/aspect-starters/shell/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/shell/actions/workflows/ci.yaml?query=branch%3Amain) |
+| [kitchen-sink](https://github.com/aspect-starters/kitchen-sink) | Everything — all languages + OCI, protobuf, release stamping, codegen | [![CI](https://github.com/aspect-starters/kitchen-sink/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/aspect-starters/kitchen-sink/actions/workflows/ci.yaml?query=branch%3Amain) |
 
 ## What every starter gives you
 
