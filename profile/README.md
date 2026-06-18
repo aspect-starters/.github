@@ -49,7 +49,7 @@ tools required.
 
 - 🧱 **Latest Bazel** (bzlmod) with curated flags via [`bazelrc-preset.bzl`](https://github.com/bazel-contrib/bazelrc-preset.bzl)
 - 🧰 **Hermetic dev environment** via [`bazel_env.bzl`](https://github.com/buildbuddy-io/bazel_env.bzl) + [`rules_multitool`](https://github.com/theoremlp/rules_multitool)
-- 🎨 **Formatting & linting** built in with [`rules_lint`](https://github.com/aspect-build/rules_lint), plus pre-commit hooks
+- 🎨 **Formatting & linting** built in with [`rules_lint`](https://github.com/aspect-build/rules_lint)
 - 📦 **Native package-manager integration** for the language (pip/uv, pnpm, go.mod, Cargo, Maven, Bundler, …)
 - ⚙️ **Working GitHub Actions CI** that runs `aspect build`/`test`/`lint`/`format` on ephemeral runners — green out of the box
 - 🐳 **OCI containers** via [`rules_oci`](https://github.com/bazel-contrib/rules_oci) (where applicable)
