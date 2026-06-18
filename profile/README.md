@@ -1,7 +1,7 @@
 # 🚀 Aspect Starters
 
 Ready-to-build [Bazel](https://bazel.build) starter projects, wired up with the
-[Aspect CLI](https://docs.aspect.build/cli) and Aspect Workflows. Pick a
+[Aspect CLI](https://aspect.build/docs/cli) and Aspect Workflows. Pick a
 language, click **Use this template**, and start shipping — no Bazel
 boilerplate, no toolchain yak-shaving.
 
@@ -18,7 +18,7 @@ git clone https://github.com/aspect-starters/<language>
 
 **2. Scaffold with the Aspect CLI**
 
-Already have the [Aspect CLI](https://docs.aspect.build/cli/install)? Generate a
+Already have the [Aspect CLI](https://aspect.build/docs/cli/install)? Generate a
 project — choose a preset interactively, or pass one:
 
 ```sh
